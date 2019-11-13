@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810494853091",
+    "firebase_url": "https://doitapp-61195.firebaseio.com",
+    "project_id": "doitapp-61195",
+    "storage_bucket": "doitapp-61195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810494853091:android:0262960da65ef46d1a6ad6",
+        "android_client_info": {
+          "package_name": "com.software.de.laboratorio.projeto.doit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810494853091-29dg18nc2ggcb9uobej5auls92fc5aus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmzInxhVnaLp0btiRbDvpsixDIb42Uuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810494853091-29dg18nc2ggcb9uobej5auls92fc5aus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
